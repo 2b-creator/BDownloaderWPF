@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\Csharp\BDownloader\obj\Debug\
+C:\Users\qjtyk\Documents\GitHub\BDownloaderWPF\obj\Debug\
 BDownloader
 none
 false
 DEBUG;TRACE
-F:\Csharp\BDownloader\App.xaml
+C:\Users\qjtyk\Documents\GitHub\BDownloaderWPF\App.xaml
 2462529049
 
 72108228723
-181307899800
+19-545311373
 MainWindow.xaml;Window1.xaml;
 
-False
+True
 
